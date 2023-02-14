@@ -2,7 +2,7 @@
 <!-- - 👋 Hi, I’m @yangnianzu0515 -->
 - 👀 I’m interested in drug discovery, graph neural networks and out-of-distribution generalization.
 - 🌱 I’m currently learning generative models.
-- 💞️ I am pursuing my PhD degree @SJTU-ThinkLab.
+- 💞️ I am pursuing my PhD degree @SJTU-ThinkLab, supervised by [**Prof. Junchi Yan**](https://thinklab.sjtu.edu.cn/).
 - 📫 Welcome academic cooperation and feel free to contact with me via yangnianzu@sjtu.edu.cn!
 
 <!---
